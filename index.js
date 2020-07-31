@@ -44,6 +44,33 @@ const YUG = [
 	"कलि"
 ]
 
+const SAMVAT = [
+	"कल्पाब्द",
+	"सृष्टि",
+	"वामन",
+	"श्रीराम",
+	"श्रीकृष्ण",
+	"युधिष्ठिर",
+	"बौद्ध",
+	"महावीर",
+	"श्रीशंकराचार्य",
+	"विक्रम",
+	"शालिवाहन",
+	"कलचुरी",
+	"वलभी",
+	"फसली",
+	"बँगला",
+	"हर्षाब्द",
+	"भारत"
+];
+
+const KAAL_IKAI = [
+	"कल्प",
+	"मन्वंतर",
+	"युग",
+	"सम्वत्"
+];
+
 exports.getMonths = function() {
 	return MONTHS;
 }
@@ -57,5 +84,13 @@ exports.getAllPaksh = function() {
 }
 
 exports.getAllYug = function() {
-	return YUG
+	return YUG;
+}
+
+exports.getSamvat = function() {
+	return SAMVAT;
+}
+
+exports.getKaalIkai = function() {
+	return KAAL_IKAI;
 }

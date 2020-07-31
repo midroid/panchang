@@ -8,3 +8,5 @@
 ### var paksh = panchang.getAllPaksh()
 ### var tithiya = panchang.getTithiya()
 ### var yug = panchang.getAllYug()
+### var samvat = panchang.getSamvat()
+### var kaalIkai = panchang.getKaalIkai()

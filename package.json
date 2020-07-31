@@ -1,6 +1,6 @@
 {
   "name": "panchang",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "भारतीय समय एवं युगों की गणना में सहायक",
   "main": "index.js",
   "scripts": {
