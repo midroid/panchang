@@ -1,0 +1,24 @@
+{
+  "name": "samay",
+  "version": "0.0.1",
+  "description": "भारतीय समय एवं युगों की गणना में सहायक",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midroid/samay.git"
+  },
+  "keywords": [
+    "samay",
+    "समय",
+    "युग"
+  ],
+  "author": "आकाश चौहान",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midroid/samay/issues"
+  },
+  "homepage": "https://github.com/midroid/samay#readme"
+}
