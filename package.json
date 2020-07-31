@@ -1,6 +1,6 @@
 {
   "name": "panchang",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "भारतीय समय एवं युगों की गणना में सहायक",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "पंचांग",
     "panchang",
     "jyotish",
-    "ज्योतिष"
+    "ज्योतिष",
+    "काल"
   ],
   "author": "आकाश चौहान",
   "license": "ISC",

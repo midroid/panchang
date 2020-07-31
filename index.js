@@ -32,19 +32,30 @@ const TITHIYA = [
 	"अमावस्या"
 ];
 
-const PAKSHO = [
+const PAKSH = [
 	"शुक्ल",
 	"कृष्ण"
 ];
+
+const YUG = [
+	"सत्य",
+	"त्रेता",
+	"द्वापर",
+	"कलि"
+]
 
 exports.getMonths = function() {
 	return MONTHS;
 }
 
-exports.getMonths = function() {
+exports.getTithiya = function() {
 	return TITHIYA;
 }
 
-exports.getPaksho = function() {
-	return PAKSHO;
+exports.getAllPaksh = function() {
+	return PAKSH;
+}
+
+exports.getAllYug = function() {
+	return YUG
 }
