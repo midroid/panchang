@@ -1,6 +1,6 @@
 {
-  "name": "samay",
-  "version": "0.0.1",
+  "name": "panchang",
+  "version": "0.0.2",
   "description": "भारतीय समय एवं युगों की गणना में सहायक",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/midroid/samay.git"
+    "url": "git+https://github.com/midroid/panchang.git"
   },
   "keywords": [
     "samay",
     "समय",
-    "युग"
+    "युग",
+    "पंचांग",
+    "panchang",
+    "jyotish",
+    "ज्योतिष"
   ],
   "author": "आकाश चौहान",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/midroid/samay/issues"
+    "url": "https://github.com/midroid/panchang/issues"
   },
-  "homepage": "https://github.com/midroid/samay#readme"
+  "homepage": "https://github.com/midroid/panchang#readme"
 }
